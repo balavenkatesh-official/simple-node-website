@@ -1,8 +1,8 @@
 trigger:
   - main
 
-# pool:
-#   name: "self-hosted"
+pool:
+  name: "self-hosted"
 
 variables:
   sshService: 'ssh-to-nginx-vm'
